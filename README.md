@@ -6,9 +6,9 @@ Bem-vindo ao meu repositório!
 Aqui compartilho projetos, tutoriais e scripts que utilizo no meu dia a dia como técnico em hardware e redes.
 
 ## 🔹 Sobre mim
-- Técnico em montagem e manutenção de computadores
-- Experiência em upgrades, redes locais e suporte técnico
-- Apaixonado por tecnologia e aprendizado contínuo
+- Advogado apaixonado por tecnologia - Especializado em segurança digital
+- Técnologo em Gestão
+- Técnico em processamento de dados
 
 ## 📂 Conteúdo
 - **Manuais e tutoriais:** Passo a passo de manutenções comuns
