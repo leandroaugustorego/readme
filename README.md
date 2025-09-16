@@ -7,7 +7,7 @@ Aqui compartilho projetos, tutoriais e scripts que utilizo no meu dia a dia como
 
 ## 🔹 Sobre mim
 - Advogado apaixonado por tecnologia - Especializado em segurança digital. Presto consultoria esporádica em hardware e redes! Esse é meu passatempo favorito!
-- Técnologo em gestão finaneira
+- Técnologo em gestão financeira
 - Técnico em processamento de dados
 - Estando eletrônica atualmente (finalização do curso técnico previsto para 2026)
 - Atuante na área de tecnologia desde 1995
